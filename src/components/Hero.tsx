@@ -73,7 +73,7 @@ export default function Hero() {
                 <div className="absolute inset-0 bg-teal-600 rounded-3xl transform rotate-3"></div>
                 <div className="relative bg-gradient-to-br from-teal-500 to-cyan-600 rounded-3xl overflow-hidden shadow-2xl">
                   <img
-                    src="/public/img/dr.png"
+                    src="/img/dr.png"
                     alt="Dr. Tapas Behera"
                     className="w-full h-auto object-cover"
                   />

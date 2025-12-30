@@ -60,7 +60,7 @@ export default function About() {
 
           <div className="order-1 md:order-2">
             <img
-              src="/public/img/cr.jpg"
+              src="/img/cr.jpg"
               alt="Dr. Tapas Behera in consultation"
               className="rounded-2xl shadow-2xl w-full h-auto"
             />
